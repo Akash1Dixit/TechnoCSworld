@@ -1,0 +1,13 @@
+# Site settings
+title: TechnoCSworld
+description: Department of Computer Science & Engineering, Allenhouse Institute of Technology
+baseurl: https://Akash1Dixit.github.io/technocsworld/
+
+
+# User settings
+username: TechnoCSworld
+user_description: We are a team of programming enthusiasts who love to solve challenges, participate in contests, share our knowledge and help each other with their problems. 
+user_title: Department of Computer Science & Engineering, Allenhouse Institute of Technology
+email: anshudixit00011@gmail.com
+
+exclude: ['package.json', 'src' , 'node_modules']
